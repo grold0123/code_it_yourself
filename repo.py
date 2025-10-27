@@ -4,7 +4,7 @@ base_dir = "C:/projects/code_it_yourself"
 
 args = [
     ('\n\ngit add:\n\n',[
-        'git','add',"C:\projects\code_it_yourself"
+        'git','add',"C:/projects/code_it_yourself"
     ]),#git add
     ('\n\ngit commit:\n\n',[
         'git','commit','-m',"update"
