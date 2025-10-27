@@ -1,6 +1,6 @@
 import subprocess 
 
-base_dir = "C:\projects\code_it_yourself"
+base_dir = r"C:\projects\code_it_yourself"
 
 args = [
     ('\n\ngit add:\n\n',[
